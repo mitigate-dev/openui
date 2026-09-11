@@ -107,6 +107,6 @@
     "@types/react-dom": "catalog:",
     "jsdom": "catalog:",
     "react-dom": "catalog:",
-    "vitest": "^4.0.18"
+    "vitest": "^4.1.11"
   }
 }
