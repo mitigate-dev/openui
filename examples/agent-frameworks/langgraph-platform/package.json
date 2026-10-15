@@ -31,7 +31,7 @@
     "@openuidev/thesys": "0.3.2",
     "deepagents": "^1.10.5",
     "langchain": "^1.5.1",
-    "next": "16.1.6",
+    "next": "16.3.8",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "zod": "^4.0.0",
